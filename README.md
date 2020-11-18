@@ -1,2 +1,2 @@
 # member-system
-Front-end pages and relative api(CRUD).
+Front-end pages and relative api(CRUD), using cookies.
